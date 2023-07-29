@@ -1,6 +1,6 @@
 ![logo](https://github.com/shirali-saraf/shirali-saraf/blob/main/SHIRALI%20SARAF%20(1).png)
 # 💫 About Me: 
-🔭 I’m currently working on HTML, CSS, JavaScript and React<br>👯 I’m looking to collaborate on Web Development<br>🤝 I’m looking for help with React<br>🌱 I’m currently learning React<br>💬 Ask me about Web Development and Data Structure<br>📫 How to reach me <a href="https://www.linkedin.com/in/shirali-saraf/">LinkedIn</a> || <a href="29shirali@gmail.com">gmail</a>
+🔭 I’m currently working on HTML, CSS, JavaScript and React<br>👯 I’m looking to collaborate on Web Development<br>🤝 I’m looking for help with React<br>🌱 I’m currently learning React and Node.js<br>💬 Ask me about Web Development and Data Structure<br>📫 How to reach me <a href="https://www.linkedin.com/in/shirali-saraf/">LinkedIn</a> || <a href="29shirali@gmail.com">gmail</a>
 <img align="right" width="400" alt="coding" src="https://media1.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e474uls9p7vesvdz2rgl9rr659lz5v889h2e9otvfwe&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
 ## 🌐 Socials:
